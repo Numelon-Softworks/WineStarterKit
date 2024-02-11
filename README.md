@@ -8,4 +8,4 @@ Alternatively, you can individually install each component from WineStarterKit.
 
 # 📦 Components
 WineStarterKit installs the following:
-- All of the Windows 11 fonts. Includes Microsoft CoreFonts.
+- Windows 11 Fonts (692 of them!)
