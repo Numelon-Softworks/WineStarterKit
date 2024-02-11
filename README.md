@@ -6,4 +6,4 @@ To install WineStarterKit, simply download the zip file from the latest release 
 
 # 📦 Components
 WineStarterKit installs the following:
-- All of the Windows 11 fonts, extracted from a Windows 11 installation. Includes Microsoft CoreFonts.
+- All of the Windows 11 fonts. Includes Microsoft CoreFonts.
