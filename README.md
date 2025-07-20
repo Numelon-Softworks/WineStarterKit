@@ -1,13 +1,7 @@
-# 🍷 Wine / CrossOver Starter Kit
-The ultimate starter kit for Wine and CrossOver which resolves most of the missing core dependencies, restoring true windows-like function.
+# 🍷 WineFonts
+Just a repository containing all of the default fonts bundled with Windows 11 (as of Feb 11, 2024) so that you can use them inside of Wine / CrossOver.
 
-# 📥 Installation
-To install WineStarterKit, simply download the zip file from the latest release and run the setup file inside.
+`fonts.exe` in the Releases page works by simply copying over 692 fonts to the Windows fonts directory.
 
-Alternatively, you can individually install each component from WineStarterKit.
-
-**Please note**: You cannot uninstall WineStarterKit from your bottle once installed, as it modifies many important system directories. (Also most of your apps might break!)
-
-# 📦 Components
-WineStarterKit installs the following:
-- Windows 11 Fonts (692 of them!)
+# Installation
+To use WineFonts, go to the [latest release](https://github.com/numelon-oss/WineStarterKit/releases/latest), download and run `fonts.exe` inside of Wine or CrossOver.
